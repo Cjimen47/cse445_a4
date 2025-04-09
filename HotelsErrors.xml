@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="Hotels.xsl"?>
+<Hotel>
+	xmlns ="http://venus.sod.asu.edu/WSRepository/xml"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://venus.sod.asu.edu/WSRepository/xml .xsd">
+	<Hotel Rating="4.2">
+		<Name>Westin</Name>
+		<Phone>480-968-8885</Phone>
+		<Phone>800-937-8461</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>11</Number>
+			<Street>E.7th St</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.0">
+		<Name>Aloft Tempe</Name>
+		<Phone>480-621-3300</Phone>
+		<Address>
+			<Number>951</Number>
+			<Street>E. Playa Del Norte Drive</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel>
+		<Name>Motel 6</Name>
+		<Phone>480-345-8585</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>1660</Number>
+			<Street>W. Elliot Road</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85284</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="3.6">
+		<Name>Motel 6 Tempe, AZ - Broadway - ASU</Name>
+		<Address NearestAirport="Sky Harbor">
+			<Number>513</Number>
+			<Street>W. Broadway Road</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85282</Zip>
+	</Hotel>
+
+	<Hotel>
+		<Name>Motel 6 Tempe, AZ - Priest Dr</Name>
+		<Phone>480-968-4401</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>1720</Number>
+			<Street>S. Priest Drive</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.1">
+		<Name>Sonesta Select Tempe Downtown</Name>
+		<Name>Casa Bonita</Name>
+		<Phone>480-966-2800</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>601</Number>
+			<Street>S. Ash Avenue</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.5">
+		<Name>Residence Inn by Marriott Tempe Downtown/University</Name>
+		<Phone>480-967-2300</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>510</Number>
+			<Street>S. Forest Avenue</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel>
+		<Name>Embassy Suites by Hilton Phoenix Tempe</Name>
+		<Phone>480-897-7444</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>4400</Number>
+			<Street>S. Rural Road</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85282</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.3">
+		<Name>Holiday Inn Express And Suites Tempe</Name>
+		<Phone>480-831-9800</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>1520</Number>
+			<Street>W. Baseline Road</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85283</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.5">
+		<Name>Hilton Garden Inn Phoenix Tempe ASU Area</Name>
+		<Phone>480-968-2180</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>86</Number>
+			<Street>S Rockford Drive</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+
+</Hotel>
+
